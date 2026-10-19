@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      name: Greeting
-      run: echo "New data is pushed"  
+      name: Greeting 
+      run: echo "New data is pushed" 
+          
     
